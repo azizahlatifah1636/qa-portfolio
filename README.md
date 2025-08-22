@@ -1,11 +1,15 @@
 # QA Engineer Portfolio - Azizah Latifa  QA Engineer Portfolio - Azizah Latifa
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/azizahlatifah)
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azizahlatifah1636)
 
 *If you find my work interesting, please consider starring my repositories!*
 
-**Thank you for visiting my QA portfolio!**b-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azizahlatifah1636)
+**Thank you for visiting my QA portfolio!**
+
+(https://github.com/azizahlatifah1636)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurazizahlatifah@gmail.com)
 
 ##  About Me
