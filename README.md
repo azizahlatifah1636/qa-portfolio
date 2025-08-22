@@ -4,13 +4,11 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azizahlatifah1636)
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurazizahlatifah@gmail.com)
+
 *If you find my work interesting, please consider starring my repositories!*
 
 **Thank you for visiting my QA portfolio!**
-
-(https://github.com/azizahlatifah1636)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurazizahlatifah@gmail.com)
 
 ##  About Me
 
@@ -98,7 +96,7 @@ Comprehensive API testing framework for JSON-based REST services.
 - Authentication testing
 - Automated test reporting
 
-**Technologies:** `Java` `REST Assured` `Jackson` `TestNG` `Gradle`
+**Technologies:** `Java` `REST Assured` `TestNG` `Gradle`
 
 ---
 
@@ -140,7 +138,7 @@ Complete SDLC simulation demonstrating QA processes in software development.
 |----------|-------|--------------|
 | **API Testing Projects** | 3 | REST Assured, Postman, JSON |
 | **UI Automation Projects** | 4 | Selenium, Cucumber, TestNG |
-| **Database Testing** | 2 | JDBC, MySQL, SQL |
+| **Database Testing** | 2 | MySQL, SQL |
 | **Framework Development** | 5 | Java, Maven, Gradle |
 | **CI/CD Integration** | 3 | GitHub Actions, Jenkins |
 
